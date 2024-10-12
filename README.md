@@ -9,9 +9,9 @@ A demo showcasing the Auto Resume Parsing & Auto Form Filling LLM Application in
 https://resume-pareser.onrender.com/
 
 
-<img src="https://github.com/jindalayush326/Resume-Parser/blob/main/image/Screenshot%20(6076).png"/>
-<img src="https://github.com/jindalayush326/Resume-Parser/blob/main/image/Screenshot%20(6077).png"/>
-<img src="https://github.com/jindalayush326/Resume-Parser/blob/main/image/Screenshot%20(6078).png"/>
+<img src="https://github.com/jindalayush326/Resume-Parser/blob/main/images/Screenshot%20(6076).png"/>
+<img src="https://github.com/jindalayush326/Resume-Parser/blob/main/images/Screenshot%20(6077).png"/>
+<img src="https://github.com/jindalayush326/Resume-Parser/blob/main/images/Screenshot%20(6078).png"/>
 
 ## Installation
 
