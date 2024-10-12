@@ -5,10 +5,6 @@
 The Auto Resume Parsing & Auto Form Filling LLM Application is an intelligent tool designed to streamline the resume uploading and parsing process. It utilizes AI-driven models to extract essential details from resumes in PDF format and automatically fill out corresponding fields on the user interface. This system is powered by technologies such as Flask, PyPDF2, Google Generative AI, and Python. The application is ideal for users seeking to simplify the resume review process while ensuring that key information is accurately captured and displayed.
 
 ## Demo of the app
-A demo showcasing the Auto Resume Parsing & Auto Form Filling LLM Application in action can be viewed at the link below:  
-https://resume-pareser.onrender.com/
-
-
 <img src="https://github.com/jindalayush326/Resume-Parser/blob/main/images/Screenshot%20(6076).png"/>
 <img src="https://github.com/jindalayush326/Resume-Parser/blob/main/images/Screenshot%20(6077).png"/>
 <img src="https://github.com/jindalayush326/Resume-Parser/blob/main/images/Screenshot%20(6078).png"/>
