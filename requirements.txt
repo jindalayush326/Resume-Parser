@@ -1,5 +1,4 @@
-load_dotenv
-streamlit
-crewai
-langchain_google_genai
-langchain_openai
+Flask
+PyPDF2
+google-generativeai
+python-dotenv
